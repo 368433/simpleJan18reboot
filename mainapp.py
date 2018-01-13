@@ -1,7 +1,6 @@
 import ui
 from classified import Morpheus
 from database import Patient, Act
-import TouchID
 
 def show_morpheus():
 	#wh = ui.get_screen_size()
